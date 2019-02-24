@@ -1,3 +1,4 @@
 # csis2450
 Software Engineering Repository
-  *This is a repo used to keep files that may be useful for me in the future, as well as get credit for A02+ in Software Engineering.
+## What am I looking at?
+A compilation of past CSIS assignments that I no longer want to keep on my PC.
